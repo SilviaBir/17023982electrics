@@ -1,0 +1,68 @@
+/*--footer--*/
+footer {
+  min-height: 100px;
+  background-color: #fff;
+  color: #999;
+  padding-top: 20px;
+  margin-top: 40px;
+}
+
+.footerlinks-menu a {
+  color: red;
+  font-size: 14px;
+}
+
+.list-inline>li {
+  display: inline-block;
+  padding-right: 5px;
+  padding-left: 5px;
+  padding-bottom: 10px;
+}
+
+li {
+  text-align: -webkit-match-parent;
+}
+
+.fa-round {
+  width: 35px;
+  height: 35px;
+  padding-top: 8px;
+  margin-top: 5px;
+  text-align: center;
+  color: #21a114;
+  border: 1px solid #daeef7;
+  border-radius: 50%;
+  display: inline-block;
+}
+li i:hover{
+  background-color: #daeef7;
+}
+
+.socialbuttons {
+  padding-bottom: 20px;
+}
+
+/*--Copyright--*/
+.copy {
+  color: #ddd;
+  margin: auto;
+  text-align: center;
+  margin-top: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: 12px;
+  background-color: #fbfbfb;
+  border-top: 1px solid #e3e7e9;
+}
+
+.copy a {
+  color: #ccc;
+  background-color: transparent;
+}
+.copy a {
+  color: #ccc;
+}
+
+.text-center {
+  text-align: center;
+}
